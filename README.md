@@ -1,6 +1,3 @@
-# LightOS
-LighOS — An experimental OS kernel built from scratch to explore x86_64 architecture, memory management, interrupts, processes, and low-level systems programming.
-
 # LighOS
 
 **LighOS** is an experimental operating system built from scratch, with development currently focused on its kernel.
